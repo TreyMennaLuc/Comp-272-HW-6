@@ -1,6 +1,6 @@
 # Comp-272-HW-6
 
-# Best Hash Function == 
+# Best Hash Function == Hash 2
 
 # The results
 
